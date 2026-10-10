@@ -118,3 +118,7 @@ also add KASAN logs from test stand
 [   46.530841] Disabling lock debugging due to kernel taint
 [*] Done
 ```
+
+# LPE
+
+https://github.com/user-attachments/assets/a7097a4d-4a0c-47a4-9d41-c1036173929f
